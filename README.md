@@ -73,5 +73,5 @@ El modelo con mejor desempeño fue **SVM lineal**, alcanzando la mayor precisi
 Alex Patricio Víquez Víquez
 Carné: B88639 <br>
 
-IE0435- Inteligencia Artificial Aplicada a la Ingeniería Eléctrica
+IE0435- Inteligencia Artificial Aplicada a la Ingeniería Eléctrica <br>
 Escuela de Ingeniería Eléctrica de la Universidad de Costa Rica
