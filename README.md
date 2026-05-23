@@ -22,6 +22,7 @@ Desarrollar un flujo completo de procesamiento, construcción de dataset y entre
 ---
 ## Extructura del repositorio
 
+```
 Proyecto1-IE0435/
 ├── README.md
 ├── DATASET.md
@@ -30,8 +31,8 @@ Proyecto1-IE0435/
 ├── modelTrainer.ipynb
 ├── ProcesadorDeImagenes.ipynb
 └── modelo/
-    └── carne_nombre_apellido.joblib
-
+    └── B88639_Alex_Víquez.joblib
+```
 ---
 
 ## Modelos probados
