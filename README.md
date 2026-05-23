@@ -1,4 +1,5 @@
-# Proyecto 1 – IE0435 Inteligencia Artificial Aplicada a la Ingeniería Eléctrica
+# Proyecto 1 <br>
+IE0435 Inteligencia Artificial Aplicada a la Ingeniería Eléctrica
 
 Este repositorio contiene los entregables del **Proyecto 1**, cuyo objetivo es aplicar modelos clásicos de clasificación sobre un dataset grupal de imágenes procesadas para identificar granos de arroz como impurezas en un entorno de producción simulado.
 
