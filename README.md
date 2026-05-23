@@ -59,7 +59,7 @@ El modelo con mejor desempeño fue **SVM lineal**, alcanzando la mayor precisi
 
 ---
 
-## ▶️ Cómo reproducir el proyecto
+## Cómo reproducir el proyecto
 1. Abrir los notebooks en **Google Colab**.  
 2. Instalar dependencias:
    ```python
