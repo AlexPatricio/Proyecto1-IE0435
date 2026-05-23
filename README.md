@@ -67,3 +67,10 @@ El modelo con mejor desempeño fue **SVM lineal**, alcanzando la mayor precisi
 3. Ejecutar OneDataSet.ipynb para generar el dataset grupal.
 4. Ejecutar modelTrainer.ipynb para entrenar y comparar modelos.
 5. El mejor modelo se guarda automáticamente en la carpeta modelo/.
+
+---
+## Autor
+Alex Patricio Víquez Víquez
+Carné: B88639
+IE0435- InteligenciaInteligencia Artificial Aplicada a la Ingeniería Eléctrica
+Escuela de Ingeniería Eléctrica de la Universidad de Costa Rica
